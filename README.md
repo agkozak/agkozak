@@ -1,4 +1,4 @@
-![A. G. Kozak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agkozak&show_icons=true&theme=onedark)
+![A. G. Kozak's GitHub Stats](https://github-readme-stats-lemon-zeta.vercel.app/api?username=agkozak&show_icons=true&theme=onedark)
 <!--
 You will see my shell projects below.
 
