@@ -1,1 +1,2 @@
-![A. G. Kozak's GitHub Stats](https://github-readme-stats-lemon-zeta.vercel.app/api?username=agkozak&show_icons=true&theme=onedark)
+![](https://raw.githubusercontent.com/agkozak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/agkozak/github-stats/master/generated/overview.svg#gh-light-mode-only)
