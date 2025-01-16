@@ -1,4 +1,1 @@
-![](https://raw.githubusercontent.com/agkozak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/agkozak/github-stats/master/generated/overview.svg#gh-light-mode-only)
-<!-- ![](https://raw.githubusercontent.com/agkozak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/agkozak/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
+![Alexandros Kozak's Github Stats](https://github-readme-stats-lemon-zeta.vercel.app/api?username=agkozak&show_icons=true&theme=onedark&hide_rank=true)
